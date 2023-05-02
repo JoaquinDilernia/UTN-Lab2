@@ -1,0 +1,2265 @@
+# depslib dependency file v1.0
+1559591070 source:e:\centro medico delta\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561057004 e:\centro medico delta\menu.h
+
+1561228244 source:e:\centro medico delta\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+
+1561228288 e:\centro medico delta\funciones.h
+	"operador.h"
+
+1561227998 source:e:\centro medico delta\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+
+1559590746 source:e:\centro medico delta\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 e:\centro medico delta\fecha.h
+	<iostream>
+
+1561057294 source:e:\centro medico delta\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1560872844 e:\centro medico delta\operador.h
+
+1559590746 source:c:\users\florencia\desktop\centro medico delta\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 c:\users\florencia\desktop\centro medico delta\fecha.h
+	<iostream>
+
+1560871560 source:c:\users\florencia\desktop\centro medico delta\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+
+1560869140 c:\users\florencia\desktop\centro medico delta\funciones.h
+	"operador.h"
+
+1560872843 c:\users\florencia\desktop\centro medico delta\operador.h
+
+1559591070 source:c:\users\florencia\desktop\centro medico delta\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1560869142 c:\users\florencia\desktop\centro medico delta\menu.h
+
+1560960707 source:c:\users\florencia\desktop\centro medico delta\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+
+1560877028 source:c:\users\florencia\desktop\centro medico delta\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1559590746 source:g:\centro medico delta\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 g:\centro medico delta\fecha.h
+	<iostream>
+
+1560790558 source:g:\centro medico delta\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+
+1560190832 g:\centro medico delta\funciones.h
+	"operador.h"
+
+1560192792 g:\centro medico delta\operador.h
+
+1559591070 source:g:\centro medico delta\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1560790510 g:\centro medico delta\menu.h
+
+1560191214 source:g:\centro medico delta\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+
+1560193788 source:g:\centro medico delta\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1560871064 c:\users\florencia\desktop\centro medico delta\medicos.h
+
+1560961775 c:\users\florencia\desktop\centro medico delta\medico.h
+
+1560961251 source:c:\users\florencia\desktop\centro medico delta\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1559590746 source:f:\centro medico delta\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 f:\centro medico delta\fecha.h
+	<iostream>
+
+1561228942 source:f:\centro medico delta\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+
+1561228288 f:\centro medico delta\funciones.h
+	"operador.h"
+
+1560872844 f:\centro medico delta\operador.h
+
+1559591070 source:f:\centro medico delta\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561057004 f:\centro medico delta\menu.h
+
+1560963150 source:f:\centro medico delta\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1560961776 f:\centro medico delta\medico.h
+
+1561057294 source:f:\centro medico delta\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561227998 source:f:\centro medico delta\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+
+1561227986 f:\centro medico delta\especialidades.h
+
+1561227842 source:f:\centro medico delta\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1560963150 source:e:\centro medico delta\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1560961776 e:\centro medico delta\medico.h
+
+1561227986 e:\centro medico delta\especialidades.h
+
+1561227842 source:e:\centro medico delta\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561231000 source:c:\users\joaquin.joacodiler\desktop\cm\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561232427 c:\users\joaquin.joacodiler\desktop\cm\especialidades.h
+
+1561314474 c:\users\joaquin.joacodiler\desktop\cm\funciones.h
+	"operador.h"
+	"especialidades.h"
+	"Medico.h"
+
+1561232763 c:\users\joaquin.joacodiler\desktop\cm\operador.h
+
+1561057004 c:\users\joaquin.joacodiler\desktop\cm\menu.h
+
+1559590746 source:c:\users\joaquin.joacodiler\desktop\cm\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 c:\users\joaquin.joacodiler\desktop\cm\fecha.h
+	<iostream>
+
+1561314231 source:c:\users\joaquin.joacodiler\desktop\cm\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+
+1559591070 source:c:\users\joaquin.joacodiler\desktop\cm\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561311527 source:c:\users\joaquin.joacodiler\desktop\cm\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1561311426 c:\users\joaquin.joacodiler\desktop\cm\medico.h
+
+1561311595 source:c:\users\joaquin.joacodiler\desktop\cm\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+
+1561232902 source:c:\users\joaquin.joacodiler\desktop\cm\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561398436 source:e:\cm\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561396022 e:\cm\especialidades.h
+
+1561400156 e:\cm\funciones.h
+	"operador.h"
+	"especialidades.h"
+	"Medico.h"
+
+1561232764 e:\cm\operador.h
+
+1561311428 e:\cm\medico.h
+
+1561398420 e:\cm\menu.h
+
+1559590746 source:e:\cm\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 e:\cm\fecha.h
+	<iostream>
+
+1559591070 source:e:\cm\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561396198 source:e:\cm\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1561400268 source:e:\cm\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+
+1561232904 source:e:\cm\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561400474 source:e:\cm\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1561398384 e:\cm\pacientes.h
+
+1561398678 source:e:\cm\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1561398436 source:f:\cm\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561396022 f:\cm\especialidades.h
+
+1561729656 f:\cm\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+
+1561232764 f:\cm\operador.h
+
+1561311428 f:\cm\medico.h
+
+1561573046 f:\cm\menu.h
+
+1559590746 source:f:\cm\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 f:\cm\fecha.h
+	<iostream>
+
+1561729620 source:f:\cm\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1561662518 f:\cm\pacientes.h
+
+1559591070 source:f:\cm\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561396198 source:f:\cm\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1561232904 source:f:\cm\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561398678 source:f:\cm\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1561575286 source:f:\cm\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561572772 f:\cm\obrasocial.h
+
+1561573282 source:f:\cm\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+
+1561746822 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746822 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\especialidades.h
+
+1561842016 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+
+1561744666 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\operador.h
+
+1561746587 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\obrasocial.h
+
+1561743837 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\medico.h
+
+1561741954 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\pacientes.h
+
+1561839919 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\menu.h
+
+1559590746 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1559590740 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\fecha.h
+	<iostream>
+
+1561901171 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1559591070 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561746835 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1561923560 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+
+1561746587 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744692 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561743328 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1561839316 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\historiaclinica.h
+	"fecha.h"
+
+1561841852 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\especialidades.h
+
+1562705520 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\operador.h
+
+1561746588 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\obrasocial.h
+
+1561924886 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\medico.h
+
+1561925442 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\pacientes.h
+
+1561839318 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\historiaclinica.h
+	"fecha.h"
+
+1562179295 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\fecha.h
+	<iostream>
+
+1562706303 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\menu.h
+
+1562179460 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1562705921 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562003602 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1562705520 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562706303 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561925378 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:f:\cm1\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 f:\cm1\especialidades.h
+
+1562785680 f:\cm1\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 f:\cm1\operador.h
+
+1561746588 f:\cm1\obrasocial.h
+
+1561924886 f:\cm1\medico.h
+
+1561925442 f:\cm1\pacientes.h
+
+1561839318 f:\cm1\historiaclinica.h
+	"fecha.h"
+
+1562787768 f:\cm1\fecha.h
+	<iostream>
+
+1562706304 f:\cm1\menu.h
+
+1562787768 source:f:\cm1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1562785840 source:f:\cm1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:f:\cm1\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1562705522 source:f:\cm1\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:f:\cm1\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562776024 source:f:\cm1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:f:\cm1\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:f:\cm1\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561925378 source:f:\cm1\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:e:\cm1\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 e:\cm1\especialidades.h
+
+1562785680 e:\cm1\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 e:\cm1\operador.h
+
+1561746588 e:\cm1\obrasocial.h
+
+1561924886 e:\cm1\medico.h
+
+1561925442 e:\cm1\pacientes.h
+
+1561839318 e:\cm1\historiaclinica.h
+	"fecha.h"
+
+1562787768 e:\cm1\fecha.h
+	<iostream>
+
+1562706304 e:\cm1\menu.h
+
+1562179462 source:e:\cm1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1562785832 source:e:\cm1\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1562705522 source:e:\cm1\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:e:\cm1\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562776024 source:e:\cm1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:e:\cm1\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:e:\cm1\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1561925378 source:e:\cm1\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1562785840 source:e:\cm1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562248176 e:\cm1\horarios.h
+
+1562785824 source:e:\cm1\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562248175 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\horarios.h
+
+1562248865 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562183354 c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\turnos.h
+	"fecha.h"
+
+1562249757 source:c:\users\florencia\desktop\lenguage c++\laboratorio y programacion\cm1\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1562248176 f:\cm1\horarios.h
+
+1562183356 f:\cm1\turnos.h
+	"fecha.h"
+
+1562785824 source:f:\cm1\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562789270 source:f:\cm1\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1562183356 e:\cm1\turnos.h
+	"fecha.h"
+
+1562785658 source:e:\cm1\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\cm1\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\cm1\especialidades.h
+
+1581257027 c:\users\joaquin.joacodiler\desktop\cm1\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\cm1\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\cm1\obrasocial.h
+
+1561924886 c:\users\joaquin.joacodiler\desktop\cm1\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\cm1\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\cm1\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\cm1\fecha.h
+	<iostream>
+
+1562248176 c:\users\joaquin.joacodiler\desktop\cm1\horarios.h
+
+1581254370 c:\users\joaquin.joacodiler\desktop\cm1\turnos.h
+	"fecha.h"
+
+1562706304 c:\users\joaquin.joacodiler\desktop\cm1\menu.h
+
+1581254371 source:c:\users\joaquin.joacodiler\desktop\cm1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1581257508 source:c:\users\joaquin.joacodiler\desktop\cm1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\cm1\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1562785824 source:c:\users\joaquin.joacodiler\desktop\cm1\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562705522 source:c:\users\joaquin.joacodiler\desktop\cm1\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:c:\users\joaquin.joacodiler\desktop\cm1\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562776024 source:c:\users\joaquin.joacodiler\desktop\cm1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\cm1\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\cm1\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1581256973 source:c:\users\joaquin.joacodiler\desktop\cm1\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1572707596 source:c:\users\joaquin.joacodiler\desktop\cm1\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\cm1 - copia\especialidades.h
+
+1581283555 c:\users\joaquin.joacodiler\desktop\cm1 - copia\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\cm1 - copia\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\cm1 - copia\obrasocial.h
+
+1561924886 c:\users\joaquin.joacodiler\desktop\cm1 - copia\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\cm1 - copia\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\cm1 - copia\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\cm1 - copia\fecha.h
+	<iostream>
+
+1562248176 c:\users\joaquin.joacodiler\desktop\cm1 - copia\horarios.h
+
+1581254370 c:\users\joaquin.joacodiler\desktop\cm1 - copia\turnos.h
+	"fecha.h"
+
+1562706304 c:\users\joaquin.joacodiler\desktop\cm1 - copia\menu.h
+
+1581283455 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1581287362 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1581286824 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562705522 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562776024 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1572707596 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1581258514 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\especialidades.h
+
+1581283555 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\obrasocial.h
+
+1561924886 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\fecha.h
+	<iostream>
+
+1562248176 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\horarios.h
+
+1581254370 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\turnos.h
+	"fecha.h"
+
+1562706304 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\menu.h
+
+1581283455 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1581288646 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1581286824 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562705522 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562776024 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1572707596 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1581258514 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\especialidades.h
+
+1582554665 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\obrasocial.h
+
+1561924886 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\fecha.h
+	<iostream>
+
+1581890147 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\horarios.h
+
+1581254370 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\turnos.h
+	"fecha.h"
+
+1562706304 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\menu.h
+
+1581283455 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1582553104 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1582382844 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1562705522 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1562776024 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1572707596 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1582554337 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2)\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\especialidades.h
+
+1582554665 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\obrasocial.h
+
+1561924886 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\fecha.h
+	<iostream>
+
+1581890147 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\horarios.h
+
+1581254370 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\turnos.h
+	"fecha.h"
+
+1582555854 c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\menu.h
+
+1581283455 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1582752227 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1582382844 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1582555854 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1561924886 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1582558186 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1582754834 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1582554993 source:c:\users\joaquin.joacodiler\desktop\cm1 - copia - copia - copia (2) - copia\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\centro medico delta final\especialidades.h
+
+1583365208 c:\users\joaquin.joacodiler\desktop\centro medico delta final\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\centro medico delta final\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\centro medico delta final\obrasocial.h
+
+1583356102 c:\users\joaquin.joacodiler\desktop\centro medico delta final\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\centro medico delta final\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\centro medico delta final\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\centro medico delta final\fecha.h
+	<iostream>
+
+1581890147 c:\users\joaquin.joacodiler\desktop\centro medico delta final\horarios.h
+
+1581254370 c:\users\joaquin.joacodiler\desktop\centro medico delta final\turnos.h
+	"fecha.h"
+
+1582555854 c:\users\joaquin.joacodiler\desktop\centro medico delta final\menu.h
+
+1581283455 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1583365532 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1583368199 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1582555854 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1583356545 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1582558186 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1583363468 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1582554993 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\especialidades.h
+
+1583365208 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\operador.h
+
+1561746588 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\obrasocial.h
+
+1583356102 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\medico.h
+
+1561925442 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\pacientes.h
+
+1561839318 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\fecha.h
+	<iostream>
+
+1581890147 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\horarios.h
+
+1583370368 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\turnos.h
+	"fecha.h"
+
+1582555854 c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\menu.h
+
+1581283455 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1583403184 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1583369732 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1583407198 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
+1583356545 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1583403478 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1583363468 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1583370271 source:c:\users\joaquin.joacodiler\desktop\centro medico delta final - copia (2)\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"especialidades.h"
+	"funciones.h"
+	"menu.h"
+
+1561746824 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\especialidades.h
+
+1583365210 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\funciones.h
+	"operador.h"
+	"obraSocial.h"
+	"especialidades.h"
+	"Medico.h"
+	"pacientes.h"
+	"HistoriaClinica.h"
+	"horarios.h"
+	"turnos.h"
+
+1561744668 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\operador.h
+
+1561746588 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\obrasocial.h
+
+1583356104 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\medico.h
+
+1561925442 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\pacientes.h
+
+1561839318 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\historiaclinica.h
+	"fecha.h"
+
+1562787768 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\fecha.h
+	<iostream>
+
+1581890148 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\horarios.h
+
+1583370370 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\turnos.h
+	"fecha.h"
+
+1582555856 c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\menu.h
+
+1581283456 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fecha.h"
+
+1583409688 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"funciones.h"
+	"operador.h"
+	"especialidades.h"
+	"menu.h"
+	"Pacientes.h"
+
+1562785832 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\historiaclinica.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"HistoriaClinica.h"
+	"funciones.h"
+	"menu.h"
+
+1583369734 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\horarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"horarios.h"
+	"funciones.h"
+	"menu.h"
+	"fecha.h"
+
+1583356546 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\medico.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Medico.h"
+	"funciones.h"
+	"menu.h"
+
+1583403480 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menu.h"
+	"funciones.h"
+	"fecha.h"
+	"operador.h"
+	"Medico.h"
+	"especialidades.h"
+	"Pacientes.h"
+	"obraSocial.h"
+	"horarios.h"
+
+1561746588 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\obrasocial.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"obraSocial.h"
+	"funciones.h"
+	"menu.h"
+
+1561744694 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\operador.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"operador.h"
+	"funciones.h"
+	"menu.h"
+
+1583363470 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Pacientes.h"
+	"funciones.h"
+	"menu.h"
+
+1583370272 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\turnos.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"turnos.h"
+	"funciones.h"
+	"menu.h"
+
+1583409878 source:c:\users\user\desktop\joaquin\facultad\lab2\centro medico delta final - copia (2)\main.cpp
+	<iostream>
+	"menu.h"
+	"fecha.h"
+
